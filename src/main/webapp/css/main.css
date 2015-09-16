@@ -1,0 +1,74 @@
+
+.container{        
+    position: absolute;
+    border-radius: 10px;
+    width: 260px;
+    margin: 40px 40px auto;
+    padding: 20px;
+    background-color: #E6E6FA;
+}
+
+.containerBMI{        
+    position: absolute;
+    border-radius: 10px;
+    width: 460px;
+    height: 400px;
+    margin: 40px 340px auto;
+    padding: 20px;
+    background-color: #E6E6FA;
+}
+.formBmi{
+    margin: 10px 90px auto;
+}
+
+#weightInp, #heigthtInp{    
+    margin-left: -50px;
+    position: absolute;
+    width: 160px;
+}
+#heigthtInp{
+margin-left: 120px;
+
+}
+#btn_bmi{
+    margin-top: 60px;
+
+}
+#sectionBMIresults{
+    margin-top: 20px;
+    width: 420px;
+    height: 135px;
+    border-radius: 20px;
+    background-color: #98FB98;
+}
+#sectionBMIresults legend{
+    font-size: 14px;
+    padding: 10px;
+    font-style: oblique;
+}
+#results{
+    font-size: 18px;
+    margin-left: 25px;
+
+}
+
+.form-control{
+    
+    width: 219px;
+}
+.btn{
+    
+    margin-top: 25px;
+    margin-left: 65px;
+    
+    
+}
+
+#inpF{
+    margin-top: 25px;
+}
+
+body{
+    background-color:  	#DCDCDC;
+
+}
